@@ -90,6 +90,10 @@ The GitHub Actions workflow (`.github/workflows/test.yml`) automatically fetches
     tap-github --config config.json --properties properties.json
     ```
 
+## Public mirror
+
+This repository is mirrored to a public, read-only copy at https://github.com/minwareco/tap-github-public; see the [Public mirror wiki page](https://github.com/minwareco/tap-github/wiki/Public-mirror) for how to set up the remote and sync it.
+
 ---
 
 Copyright &copy; 2018 Stitch
